@@ -58,28 +58,28 @@ Postman Screenshot Images
 
 Render Screenshot Images
 
-+ `https://day-26-task.onrender.com/`
++ `https://hall-booking-api-task-xch8.onrender.com/`
   
 
 
-+ `https://day-26-task.onrender.com/hallapi/halldetails`
++ `https://hall-booking-api-task-xch8.onrender.com/hallapi/halldetails`
 
 
 
-+ `https://day-26-task.onrender.com/hallapi/createnewroom`
++ `https://hall-booking-api-task-xch8.onrender.com/hallapi/createnewroom`
 
 
 
-+ `https://day-26-task.onrender.com/hallapi/bookroom`
++ `https://hall-booking-api-task-xch8.onrender.com/hallapi/bookroom`
 
 
 
-+ `https://day-26-task.onrender.com/hallapi/bookedroomdata`
++ `https://hall-booking-api-task-xch8.onrender.com/hallapi/bookedroomdata`
 
 
 
-+ `https://day-26-task.onrender.com/hallapi/customersbookeddata`
++ `https://hall-booking-api-task-xch8.onrender.com/hallapi/customersbookeddata`
 
 
 
-+ `https://day-26-task.onrender.com/hallapi/customerbookingcount`
++ `https://hall-booking-api-task-xch8.onrender.com/hallapi/customerbookingcount`
