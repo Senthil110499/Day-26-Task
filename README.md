@@ -65,12 +65,15 @@ Postman Screenshot Images
 
 Render Screenshot Images
 
+![Alt text](<Render Images/render.png>)
+
 + `https://day-26-task.onrender.com/`
 
+![Alt text](<Render Images/render-1.1.png>)
 
 + `https://day-26-task.onrender.com/hallapi/halldetails`
 
-
+![Alt text](<Render Images/render-1.2.png>)
 
 + `https://day-26-task.onrender.com/hallapi/createnewroom`
 
@@ -82,10 +85,12 @@ Render Screenshot Images
 
 + `https://day-26-task.onrender.com/hallapi/bookedroomdata`
 
-
+![Alt text](<Render Images/render-1.3.png>)
 
 + `https://day-26-task.onrender.com/hallapi/customersbookeddata`
 
-
+![Alt text](<Render Images/render-1.4.png>)
 
 + `https://day-26-task.onrender.com/hallapi/customerbookingcount`
+
+![Alt text](<Render Images/render-1.5.png>)

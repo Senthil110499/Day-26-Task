@@ -1,0 +1,36 @@
+
+Nodejs Hall Booking API Task 
+
+Render Links
+
+https://day-26-task.onrender.com/
+
+https://day-26-task.onrender.com/hallapi/halldetails
+
+https://day-26-task.onrender.com/hallapi/createnewroom
+
+https://day-26-task.onrender.com/hallapi/bookroom
+
+https://day-26-task.onrender.com/hallapi/bookedroomdata
+
+https://day-26-task.onrender.com/hallapi/customersbookeddata
+
+https://day-26-task.onrender.com/hallapi/customerbookingcount
+
+
+Postman Links
+
+http://localhost:4000/
+
+http://localhost:4000/hallapi/halldetails
+
+http://localhost:4000/hallapi/createnewroom
+
+http://localhost:4000/hallapi/bookroom
+
+http://localhost:4000/hallapi/bookedroomdata
+
+http://localhost:4000/hallapi/customersbookeddata
+
+http://localhost:4000/hallapi/customerbookingcount
+
