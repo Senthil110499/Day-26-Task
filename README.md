@@ -20,66 +20,72 @@
 
 Nodejs Hall Booking API Task Render Links
 
++ https://day-26-task.onrender.com/
++ https://day-26-task.onrender.com/hallapi/halldetails
++ https://day-26-task.onrender.com/hallapi/createnewroom
++ https://day-26-task.onrender.com/hallapi/bookroom
++ https://day-26-task.onrender.com/hallapi/bookedroomdata
++ https://day-26-task.onrender.com/hallapi/customersbookeddata
++ https://day-26-task.onrender.com/hallapi/customerbookingcount
 
 
 Postman Screenshot Images
 
 + `http://localhost:4000`
 
-![Alt text](<../Postman Images/1.png>)
+![Alt text](<Postman Images/1.png>)
 
 + `http://localhost:4000/hallapi/halldetails`
 
-![Alt text](<../Postman Images/1.1.png>)
+![Alt text](<Postman Images/1.1.png>)
 
 + `http://localhost:4000/hallapi/createnewroom`
 
-![Alt text](<../Postman Images/1.2.png>)
+![Alt text](<Postman Images/1.2.png>)
 
 + `http://localhost:4000/hallapi/bookroom`
 
-![Alt text](<../Postman Images/1.3.png>)
+![Alt text](<Postman Images/1.3.png>)
 
-![Alt text](<../Postman Images/1.4.png>)
+![Alt text](<Postman Images/1.4.png>)
 
-![Alt text](<../Postman Images/1.5.png>)
+![Alt text](<Postman Images/1.5.png>)
 
 + `http://localhost:4000/hallapi/bookedroomdata`
 
-![Alt text](<../Postman Images/1.6.png>)
+![Alt text](<Postman Images/1.6.png>)
 
 + `http://localhost:4000/hallapi/customersbookeddata`
 
-![Alt text](<../Postman Images/1.7.png>)
+![Alt text](<Postman Images/1.7.png>)
 
 + `http://localhost:4000/hallapi/customerbookingcount`
   
-![Alt text](<../Postman Images/1.8.png>)
+![Alt text](<Postman Images/1.8.png>)
 
 Render Screenshot Images
 
-+ `https://hall-booking-api-task-xch8.onrender.com/`
-  
++ `https://day-26-task.onrender.com/`
 
 
-+ `https://hall-booking-api-task-xch8.onrender.com/hallapi/halldetails`
-
-
-
-+ `https://hall-booking-api-task-xch8.onrender.com/hallapi/createnewroom`
++ `https://day-26-task.onrender.com/hallapi/halldetails`
 
 
 
-+ `https://hall-booking-api-task-xch8.onrender.com/hallapi/bookroom`
++ `https://day-26-task.onrender.com/hallapi/createnewroom`
 
 
 
-+ `https://hall-booking-api-task-xch8.onrender.com/hallapi/bookedroomdata`
++ `https://day-26-task.onrender.com/hallapi/bookroom`
 
 
 
-+ `https://hall-booking-api-task-xch8.onrender.com/hallapi/customersbookeddata`
++ `https://day-26-task.onrender.com/hallapi/bookedroomdata`
 
 
 
-+ `https://hall-booking-api-task-xch8.onrender.com/hallapi/customerbookingcount`
++ `https://day-26-task.onrender.com/hallapi/customersbookeddata`
+
+
+
++ `https://day-26-task.onrender.com/hallapi/customerbookingcount`
